@@ -1,0 +1,18 @@
+MIDlet-Version: 1.0
+MIDlet-Vendor: weihua
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-1: IPTV_GoToHell,,base.RPY
+Manifest-Version: 1.0
+MIDlet-Name: IPTV_GoToHell
+MIDlet-Jar-URL: itv_miehuohero_159.jar
+MIDlet-Jar-Size: 2401471
+isSoundOn: true
+order_type: true
+res_url: http://117.31.253.200:8082/itv_res/itv_miehuohero_159
+res_url2: http://27.155.65.215:8084/itv_res/itv_miehuohero_159
+soundLevel: 80
+tipid: 1
+loadID: 3
+gameid: 159
+
